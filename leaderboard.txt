@@ -1,0 +1,28 @@
+Partija 1:
+Alen: 0 bodova
+Marko: 1 bodova
+-----------------
+Partija 1:
+Alen: 0 bodova
+Marko: 1 bodova
+-----------------
+Partija 2:
+Alen: 1 bodova
+Marko: 1 bodova
+-----------------
+Partija 1:
+alen: 0 bodova
+Marko: 1 bodova
+-----------------
+Partija 1:
+Alen: 0 bodova
+Marko: 1 bodova
+-----------------
+Partija 2:
+Alen: 0 bodova
+Marko: 1 bodova
+-----------------
+Partija 1:
+Alen: 0 bodova
+Marko: 1 bodova
+-----------------
